@@ -7,6 +7,5 @@
   <h3> Welcome To All On GIT....Now it is Jenkins Tracking time....</h3>
   <h5> Welcome To All On GIT....Now it is Jenkins Tracking time....</h5>
   <h5> Welcome To All On GITHUB....Now it is Jenkins Tracking time....</h5>
-  <h5> Welcome To All On ATP Associates....Now it is Jenkins Tracking time....</h5>
 </body>
 </html>
